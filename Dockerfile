@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu-latest
 
 ENV TZ=America/Los_Angeles
 
